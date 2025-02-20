@@ -1,0 +1,36 @@
+{
+    "Locations": [
+        {
+            "Name": "Notification_Northwest_Airfield",
+            "Position": [
+                4827.786621,
+                439.209503,
+                9620.553711
+            ]
+        },
+        {
+            "Name": "Notification_Vybor_Military_Base",
+            "Position": [
+                4568.657715,
+                418.356445,
+                8274.485352
+            ]
+        }
+    ],
+    "Loot": [
+        {
+            "Name": "Weapons",
+            "LootName": [
+                "tnz_ak74n",
+                "tnz_AK12"
+            ]
+        },
+        {
+            "Name": "Clothing",
+            "LootName": [
+                "tnz_6b45",
+                "tnz_6b13"
+            ]
+        }
+    ]
+}
